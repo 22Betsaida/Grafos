@@ -54,6 +54,7 @@ Solicitaremos nuevamente la opcion dos para ingresar nuevamente el nodo de inici
 ![r_9 (2)](https://user-images.githubusercontent.com/71079322/97364247-5dd7f980-1869-11eb-9e81-b2b55c2b6c0d.png)
 
 Nuevamente elegimos la opción de mostrar el grafo, como vemos nos imprime ahora el nodo y las adyacencia completa
+
 ![r_10 (2)](https://user-images.githubusercontent.com/71079322/97364522-ccb55280-1869-11eb-97a5-fdc1843df72c.png)
 ![r_11 (2)](https://user-images.githubusercontent.com/71079322/97364527-ce7f1600-1869-11eb-8906-a431047234b1.png)
 

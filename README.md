@@ -1,6 +1,7 @@
 # Grafos
 El programa se trata de poder ingresar nodos, aristas, mostrar el grafo y las aristas adyacentes
 
+
 -En esta parte del programa declaramos variables y construimos dos estructuras la primera de tipo nodo que tendrá un numero entero y dos punteros, al final instanciamos el nodo y creamos una variable puntera, la segunda estructura de aristas que tiene el nodo destino y la arista siguiente, al final instanciamos las aristas.
 
 ![1-1 (2)](https://user-images.githubusercontent.com/71079322/97362835-37b15a00-1867-11eb-86ad-f7044e736e30.png)

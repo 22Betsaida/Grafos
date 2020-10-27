@@ -20,13 +20,13 @@ El programa se trata de poder ingresar nodos, aristas, mostrar el grafo y las ar
 -Esta función llamada mostrar_aristas, muestra las aristas de un nodo en específico.
 ![6-6 (2)](https://user-images.githubusercontent.com/71079322/97363125-b4dccf00-1867-11eb-8247-be258a5c4184.png)
 
+
+
 -La función crear_menu, sirve para  imprimir el menú de las operaciones del programa
 ![7-7 (2)](https://user-images.githubusercontent.com/71079322/97363210-d6d65180-1867-11eb-9d73-98ee0ace4f6b.png)
 
+
 -Esta es la función del método main en la  cual esta implementada la funcion menú y un case para cada opcion la cuál manda a llamar a cada una de las funciones creadas.
-![8-8 (2)](https://user-images.githubusercontent.com/71079322/97363322-04bb9600-1868-11eb-9bf2-40800677345f.png)
-
-
 
 -------------------------RESULTADOS-----------------------------
 

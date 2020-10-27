@@ -27,6 +27,7 @@ El programa se trata de poder ingresar nodos, aristas, mostrar el grafo y las ar
 
 
 -Esta es la función del método main en la  cual esta implementada la funcion menú y un case para cada opcion la cuál manda a llamar a cada una de las funciones creadas.
+![r_8 (2)](https://user-images.githubusercontent.com/71079322/97364238-5b759f80-1869-11eb-99c8-9a47ca017c48.png)
 
 -------------------------RESULTADOS-----------------------------
 

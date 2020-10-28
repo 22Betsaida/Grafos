@@ -1,5 +1,5 @@
 # Grafos
-El programa se trata de poder ingresar nodos, aristas, mostrar el grafo y las aristas adyacentes
+El programa se trata de poder ingresar nodos, aristas, mostrar el grafo y las aristas adyacentes.
 
 -En esta parte del programa declaramos variables y construimos dos estructuras la primera de tipo nodo que tendrá un numero entero y dos punteros, al final instanciamos el nodo y creamos una variable puntera, la segunda estructura de aristas que tiene el nodo destino y la arista siguiente, al final instanciamos las aristas.
 
@@ -8,7 +8,7 @@ El programa se trata de poder ingresar nodos, aristas, mostrar el grafo y las ar
 -Creamos una función llamada insertar_nodos, esta función se encarga de capturar e insertar un nuevo nodo al grafo.
 ![2-2 (2)](https://user-images.githubusercontent.com/71079322/97362890-51eb3800-1867-11eb-9c39-5b1e0c4aa12e.png)
 
--Este método llamado agrega_aristas se encarga de agregar aristas
+-Este método llamado agrega_aristas se encarga de agregar aristas.
 ![3-3 (2)](https://user-images.githubusercontent.com/71079322/97362960-6deed980-1867-11eb-9714-de125dd1d91b.png)
 
 -El método insertar_aristas nos sirve este método sirve para insertar las aristas como su nombre lo dice.
@@ -22,7 +22,7 @@ El programa se trata de poder ingresar nodos, aristas, mostrar el grafo y las ar
 
 
 
--La función crear_menu, sirve para  imprimir el menú de las operaciones del programa
+-La función crear_menu, sirve para  imprimir el menú de las operaciones del programa.
 ![7-7 (2)](https://user-images.githubusercontent.com/71079322/97363210-d6d65180-1867-11eb-9d73-98ee0ace4f6b.png)
 
 
@@ -44,7 +44,7 @@ A continuacion elegimos la opcion dos, nos arroja la opcion de ingresar el nodo 
 ![r_4 (2)](https://user-images.githubusercontent.com/71079322/97363943-edc97380-1868-11eb-8853-1807da6e649f.png)
 ![r_5 (2)](https://user-images.githubusercontent.com/71079322/97363948-ef933700-1868-11eb-9057-7a036e2f21a4.png)
 
-Como siguiente opción a elegir sera la opción 3, la cual nos imprime la matriz pero solo los dos nodos y una adyacencia
+Como siguiente opción a elegir sera la opción 3, la cual nos imprime la matriz pero solo los dos nodos y una adyacencia.
 
 ![r_6 (2)](https://user-images.githubusercontent.com/71079322/97364107-25382000-1869-11eb-84a7-9020ae967133.png)
 ![r_7 (2)](https://user-images.githubusercontent.com/71079322/97364112-279a7a00-1869-11eb-8df0-7d72547a5e58.png)

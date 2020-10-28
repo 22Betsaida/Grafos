@@ -46,7 +46,9 @@ A continuacion elegimos la opcion dos, nos arroja la opcion de ingresar el nodo 
 
 Como siguiente opción a elegir sera la opción 3, la cual nos imprime la matriz pero solo los dos nodos y una adyacencia
 
+
 ![r_6 (2)](https://user-images.githubusercontent.com/71079322/97364107-25382000-1869-11eb-84a7-9020ae967133.png)
+
 ![r_7 (2)](https://user-images.githubusercontent.com/71079322/97364112-279a7a00-1869-11eb-8df0-7d72547a5e58.png)
 
 Solicitaremos nuevamente la opcion dos para ingresar nuevamente el nodo de inicio y el final, Volveremos a ingresar los nodos, pero esta vez iniciando con el dos y al final el 1.
